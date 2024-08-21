@@ -11,5 +11,13 @@
 8. **[Flipkart](https://www.flipkart.com/)**: A prominent Indian eCommerce company.
 9. **[Samsung](https://www.samsung.com/)**: Known for electronics but also sells media.
 10. **[Etsy](https://www.etsy.com/)**: Specializes in handmade, vintage, and unique items.
+11. **[Taobao](https://world.taobao.com/)**: China's largest online marketplace, offering a wide range of products.
+12. **[Zalando](https://zalando.com/)**: A popular European fashion retailer with a strong online presence.
+13. **[MercadoLibre](https://mercadolibre.com/)**: The leading eCommerce platform in Latin America.
+14. **[JD.com](https://jd.com/)**: A major Chinese online retailer, known for electronics and appliances.
+15. **[Lazada](https://www.lazada.com/en/)**: Operating in Southeast Asia, Lazada offers diverse products and services.
+
+
+
 
 🛒🌐
