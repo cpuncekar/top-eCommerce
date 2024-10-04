@@ -16,7 +16,7 @@
 13. **[MercadoLibre](https://mercadolibre.com/)**: The leading eCommerce platform in Latin America.
 14. **[JD.com](https://jd.com/)**: A major Chinese online retailer, known for electronics and appliances.
 15. **[Lazada](https://www.lazada.com/en/)**: Operating in Southeast Asia, Lazada offers diverse products and services.
-
+16. **[Shopify](https://www.shopify.com/))**: No.1 eCommerce Platform for All Businesses. Start, Run + Grow Your Business with Shopify®. Customize Your Store With Our Website Builder. Trusted by Millions of Businesses. Shop Pay at Checkout.
 
 
 
